@@ -2,7 +2,7 @@
 
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/hex-ci)
 
-[我的分享](https://github.com/hex-ci/presentation)
+[Presentation(我的分享)](https://github.com/hex-ci/presentation)
 
 <a href="https://github.com/hex-ci">
   <img align="center" height="165" src="https://hex-stats.vercel.app/api?username=hex-ci&show_icons=true&include_all_commits=true" alt="Hex's github stats">
