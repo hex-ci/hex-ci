@@ -1,6 +1,6 @@
 ### I'm Hex
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/hex-ci)
+![status](https://img.shields.io/badge/status-up-brightgreen)
 
 [Presentation(我的分享)](https://github.com/hex-ci/presentation)
 
